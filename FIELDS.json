@@ -1,0 +1,219 @@
+{
+    "chatCommand": {
+    "type": "text",
+    "label": "Chat Command",
+    "value": "!lead",
+    "group":"Command"
+    },
+    "Player1": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player2": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player3": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player4": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player5": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player6": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player7": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player8": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player9": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player10": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player11": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player12": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player13": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player14": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+    "Player15": {
+        "type": "text",
+        "label": "Nome player",
+        "value": "",
+        "group": "Player"
+    },
+
+    "PointPlayer1": {
+        "type": "number",
+        "label": "punti player 1",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer2": {
+        "type": "number",
+        "label": "punti player 2",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer3": {
+        "type": "number",
+        "label": "punti player 3",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer4": {
+        "type": "number",
+        "label": "punti player 4",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer5": {
+        "type": "number",
+        "label": "punti player 5",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer6": {
+        "type": "number",
+        "label": "punti player 6",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer7": {
+        "type": "number",
+        "label": "punti player 7",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer8": {
+        "type": "number",
+        "label": "punti player 8",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer9": {
+        "type": "number",
+        "label": "punti player 9",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer10": {
+        "type": "number",
+        "label": "punti player 10",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer11": {
+        "type": "number",
+        "label": "punti player 10",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer12": {
+        "type": "number",
+        "label": "punti player 10",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer13": {
+        "type": "number",
+        "label": "punti player 10",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer14": {
+        "type": "number",
+        "label": "punti player 10",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    },
+    "PointPlayer15": {
+        "type": "number",
+        "label": "punti player 10",
+        "value": 0,
+            "min": 0,
+            "step":"1",
+        "group": "Points"
+    }
+}
